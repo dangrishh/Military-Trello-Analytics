@@ -59,7 +59,7 @@ MongoDB (Mongoose)
 Mobile App:
 Apache Cordova
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 <img width="1920" height="1080" alt="Military-Data-Visialization-Website" src="https://github.com/user-attachments/assets/44fea5fc-8d90-48bc-85bd-aa6ef5c2dba0" />
 
