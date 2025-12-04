@@ -6,7 +6,7 @@ A full-stack task and activity monitoring system built for military units to eff
 Inspired by Trello, this system enables seamless coordination, task assignment, and real-time analytics through a modern dashboard interface.
 
 # 📌 Features
-###✅ Task & Activity Management
+### ✅ Task & Activity Management
 
 • Create mission tasks and daily activities
 
@@ -16,7 +16,7 @@ Inspired by Trello, this system enables seamless coordination, task assignment, 
 
 • Mobile-ready UX for field operations
 
-###📊 Advanced Analytics Dashboard
+#### 📊 Advanced Analytics Dashboard
 
 • Yearly and monthly activity charts
 
@@ -26,15 +26,15 @@ Inspired by Trello, this system enables seamless coordination, task assignment, 
 
 • Historical data comparison and trends
 
-###🔐 User & Role Management
-
+#### 🔐 User & Role Management
+ 
 • Role-based access (Admin / Personnel)
 
 • Secure authentication system
 
 • Staff monitoring and activity assignment
 
-###📱 Mobile Application (Cordova)
+#### 📱 Mobile Application (Cordova)
 
 • Same functionality available on Android
 
