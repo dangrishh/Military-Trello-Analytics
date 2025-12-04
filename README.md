@@ -8,25 +8,25 @@ Inspired by Trello, this system enables seamless coordination, task assignment, 
 # 📌 Features
 ### ✅ Task & Activity Management
 
-• Create mission tasks and daily activities
+##### • Create mission tasks and daily activities
 
-• Categorize tasks into To-Do, In-Progress, and Completed
+##### • Categorize tasks into To-Do, In-Progress, and Completed
 
-• Track work progress visually
+##### • Track work progress visually
 
-• Mobile-ready UX for field operations
+##### • Mobile-ready UX for field operations
 
-#### 📊 Advanced Analytics Dashboard
+### 📊 Advanced Analytics Dashboard
 
-• Yearly and monthly activity charts
+##### • Yearly and monthly activity charts
 
-• Real-time project status and completion rates
+##### • Real-time project status and completion rates
 
-• Pie-chart visualizations for mission progress
+##### • Pie-chart visualizations for mission progress
 
-• Historical data comparison and trends
+##### • Historical data comparison and trends
 
-#### 🔐 User & Role Management
+### 🔐 User & Role Management
  
 • Role-based access (Admin / Personnel)
 
