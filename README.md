@@ -28,35 +28,35 @@ Inspired by Trello, this system enables seamless coordination, task assignment, 
 
 ### 🔐 User & Role Management
  
-• Role-based access (Admin / Personnel)
+##### • Role-based access (Admin / Personnel)
 
-• Secure authentication system
+##### • Secure authentication system
 
-• Staff monitoring and activity assignment
+##### • Staff monitoring and activity assignment
 
-#### 📱 Mobile Application (Cordova)
+### 📱 Mobile Application (Cordova)
 
-• Same functionality available on Android
+##### • Same functionality available on Android
 
-• Optimized UI for mobile task updates
+##### • Optimized UI for mobile task updates
 
-• Offline-friendly workflow
+##### • Offline-friendly workflow
 
 # 🛠 Tech Stack
 
-Frontend:
+### Frontend:
 React.js
 Tailwind CSS
 Recharts / Chart.js
 
-Backend:
+### Backend:
 Node.js
 Express.js
 
-Database: 
+### Database: 
 MongoDB (Mongoose)
 
-Mobile App:
+### Mobile App:
 Apache Cordova
 
 # 📸 Dashboard Preview
@@ -66,9 +66,9 @@ Apache Cordova
 
 # 🧩 System Overview
 
-• This platform helps military units manage operational activities efficiently by providing:
+##### • This platform helps military units manage operational activities efficiently by providing:
 
-• Organized workboards
+##### • Organized workboards
 
 • Action tracking
 
